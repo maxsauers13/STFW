@@ -9,6 +9,12 @@ public class Item : MonoBehaviour
 
     public enum InteractionType { NONE, PickUp, Examine }
     public InteractionType type;
+<<<<<<< HEAD
+    [Header("Examine")]
+    public string descriptionText;
+
+=======
+>>>>>>> e5c9e999ec2db33629d0c31ad2ecd7dad2d30b38
 
     private void Reset()
     {
