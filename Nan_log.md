@@ -18,3 +18,9 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 ## 2/20/2022
 - add background
 - add collider property to some tiles
+
+## 3/1/2022
+- player now are able to pick up items
+
+## 3/7/2022
+- a dialogue box will appear above the character when examining an item and disappear a few seconds later
