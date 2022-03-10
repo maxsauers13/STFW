@@ -24,3 +24,8 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 
 ## 3/7/2022
 - a dialogue box will appear above the character when examining an item and disappear a few seconds later
+
+
+## 3/10/2022
+- start working on inventory system
+
