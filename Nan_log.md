@@ -20,7 +20,7 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - add collider property to some tiles
 
 ## 3/1/2022
-- player now are able to pick up items
+- player are able to pick up items now 
 
 ## 3/7/2022
 - a dialogue box will appear above the character when examining an item and disappear a few seconds later
@@ -29,3 +29,7 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 ## 3/10/2022
 - start working on inventory system
 
+## 3/20/2022
+- add item panel and item information window
+- player can pick up items(only for PickUp type items), item image will show in the panel at the bottom
+- player can find their information at bottom right corner
