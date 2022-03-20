@@ -33,3 +33,4 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - add item panel and item information window
 - player can pick up items(only for PickUp type items), item image will show in the panel at the bottom
 - player can find their information at bottom right corner
+- player can consume the item and the item will disappear
