@@ -35,3 +35,7 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - player can find their information at bottom right corner
 - player can consume the item and the item will disappear
 - NEED TO DO: 1. be able to drop the item  2. chest
+
+SHOULD ADJUST IN TESTING PHASE:
+- camera position
+- grabbed item position when parented to the player
