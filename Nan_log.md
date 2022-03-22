@@ -39,6 +39,11 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - add grabble item type (for weapons) (ONLY FIRST THREE GRIDS CAN GRAB ITEM, because I am (~~lazy~~) considering add a separate item panel for weapons)
 - player can grab grabbale item on hand and drop it by clicking it on the item panel again 
 
+## 3/21/2022
+- detected bug: when Grab and Consume function use the same event trigger, IndexOutoOfRange error occur
+  solution: use different event trigger: Pointer Click -> consume; Pointer Down -> grab
+
+
 NEED TO DO：
  1. be able to drop the item 
  2. stacked item
