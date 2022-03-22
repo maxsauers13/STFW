@@ -38,9 +38,9 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 
 
 ## 3/21/2022
-- add grabble item type (for weapons) (ONLY FIRST THREE GRIDS CAN GRAB ITEM, because (```lazy```) I am considering add a separate item panel for weapons)
+- add grabble item type (for weapons) (ONLY FIRST THREE GRIDS CAN GRAB ITEM, because (~~lazy~~) I am considering add a separate item panel for weapons)
 - player can grab grabbale item on hand and drop it by clicking it on the item panel again 
 
 SHOULD ADJUST IN TESTING PHASE:
 - camera position
-- grabbed item position when parented to the player
+- grabbed item position to the player
