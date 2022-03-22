@@ -34,12 +34,15 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - player can pick up items(only for PickUp type items), item image will show in the panel at the bottom
 - player can find their information at bottom right corner
 - player can consume the item and the item will disappear
-- NEED TO DO: 1. be able to drop the item  2. chest
-
 
 ## 3/21/2022
 - add grabble item type (for weapons) (ONLY FIRST THREE GRIDS CAN GRAB ITEM, because I am (~~lazy~~) considering add a separate item panel for weapons)
 - player can grab grabbale item on hand and drop it by clicking it on the item panel again 
+
+NEED TO DO：
+ 1. be able to drop the item 
+ 2. stacked item
+ 3. chest
 
 SHOULD ADJUST IN TESTING PHASE:
 - camera position
