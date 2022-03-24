@@ -47,6 +47,13 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 ## 3/23/2022
 - can stack item now
 
+
+## 3/24/2022
+- add health & hunger effect attributes to items, health & hunger bar will change when consuming items
+- solve the bug occur when item count is over the limit
+- able to fetch items from chest by clicking it
+
+
 NEED TO DO：
  1. be able to drop the item 
  2. ~~stacked item~~
