@@ -44,9 +44,12 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - SOLUTION: use different event trigger: Pointer Click -> consume; Pointer Down -> grab
 - add health and hunger bar: when hunger reach 0, health decreases over time; when hunger != 0, hunger decreases over time.
 
+## 3/23/2022
+- can stack item now
+
 NEED TO DO：
  1. be able to drop the item 
- 2. stacked item
+ 2. ~~stacked item~~
  3. chest
 
 SHOULD ADJUST IN TESTING PHASE:
