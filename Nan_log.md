@@ -56,7 +56,7 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 ## 3/27/2022
 - add day&night system
 - date and time will show on the screen
-
+- add mouse event, player consume and grab items by right click
 
 NEED TO DO：
  1. be able to drop the item 
