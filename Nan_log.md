@@ -53,6 +53,10 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - solve the bug occur when item count is over the limit
 - able to fetch items from chest by clicking it
 
+## 3/27/2022
+- add day&night system
+- date and time will show on the screen
+
 
 NEED TO DO：
  1. be able to drop the item 
