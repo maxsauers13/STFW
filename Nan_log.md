@@ -58,8 +58,17 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - date and time will show on the screen
 - add mouse event, player consume and grab items by right click
 
+## 4/1/2022
+- complete upper ground map design
+
+## 4/9/2022
+- add animation for the character
+
+## 4/10/2022
+- start work on underground map design
+
 NEED TO DO：
- 1. be able to drop the item 
+ 1. ~~be able to drop the item~~
  2. ~~stacked item~~
  3. chest
 
