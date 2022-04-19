@@ -65,7 +65,18 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - add animation for the character
 
 ## 4/10/2022
-- start work on underground map design
+- start working on underground map design
+
+## 4/12/2022
+- start working on lab design
+- add toxin concentration
+
+## 4/17/2022
+- add zombie and animation
+
+## 4/18/2022
+- start working on underground room
+- add elevator
 
 NEED TO DO：
  1. ~~be able to drop the item~~
