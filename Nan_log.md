@@ -78,6 +78,10 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - start working on underground room
 - add elevator
 
+## 4/24/2022
+- fix bug
+- add evidence panel
+
 NEED TO DO：
  1. ~~be able to drop the item~~
  2. ~~stacked item~~
