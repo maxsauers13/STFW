@@ -81,6 +81,8 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 ## 4/24/2022
 - fix bug
 - add evidence panel
+- add basic start menu
+
 
 NEED TO DO：
  1. ~~be able to drop the item~~
