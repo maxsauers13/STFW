@@ -84,6 +84,12 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - add basic start menu
 
 
+## 4/28/2022
+- add room
+- solve animation problem
+- add more light to underground
+
+
 NEED TO DO：
  1. ~~be able to drop the item~~
  2. ~~stacked item~~
