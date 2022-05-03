@@ -89,11 +89,15 @@ The camera's parameter should be adjust during QA Testing. (a short tutorial is 
 - solve animation problem
 - add more light to underground
 
+## 5/2/2022
+- add background music and audio of eating and walking
+- fix the bug of entering room by adding an interaction key
+
 
 NEED TO DO：
  1. ~~be able to drop the item~~
  2. ~~stacked item~~
- 3. chest
+ 3. ~~chest~~
 
 SHOULD ADJUST IN TESTING PHASE:
 - camera position
